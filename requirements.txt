@@ -1,0 +1,3 @@
+PyQt5
+PYQtWebEngine
+PyQt5-stubs
